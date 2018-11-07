@@ -1,1 +1,26 @@
-// add Initials code here
+size(700,500);
+background(255);
+fill(0);
+rect(50,110,70,250,250);
+fill(0,0,0);
+arc(90,235,270,250,radians(-90),radians(90));
+fill(0);
+arc(90,235,150,120,radians(-90),radians(90));
+fill(0,0,0);
+rect(330,110,60,250,250);
+fill(0,0,0);
+rect(510,110,60,250,250);
+strokeWeight(50);
+line(370,150,550,345);
+noStroke();
+
+fill(255,255,0);
+rect(70,110,70,250,250);
+fill(0,255,255);
+arc(110,235,270,250,radians(-90),radians(90));
+fill(0);
+arc(110,235,150,120,radians(-90),radians(90));
+fill(255,0,0);
+rect(350,130,60,250,250);
+fill(0,0,255);
+rect(530,130,60,250,250);
